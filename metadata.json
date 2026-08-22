@@ -1,0 +1,6 @@
+{
+  "name": "Chinese Flashcards & Writing",
+  "description": "An interactive Chinese vocabulary web app featuring flashcards, stroke practice, quizzes, and AI-powered handwriting reviews for Traditional HSK (6 Levels) and New HSK (9 Levels).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
